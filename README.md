@@ -1,5 +1,4 @@
 # Readme
-Readme page by GPRM
 # 💫 About Me:
 🔭 I’m currently working on FIS.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning Javascript.<br>⚡ Fun fact I'm Really Funny.
 
